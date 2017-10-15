@@ -74,7 +74,7 @@ def mapreduce(data_dir):
 
 
 result = mapreduce(
-	"F:\\pythonproject\\Effective_Python\\2                                                                                        ")
+	"F:\\pythonproject\\Effective_Python\\2")
 print ("There are", result, "lines")
 
 """
